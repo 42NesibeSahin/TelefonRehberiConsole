@@ -22,11 +22,11 @@ namespace Hafta_1
 	{
         static List<Kisi> rehber = new List<Kisi>
         {
-            new Kisi("Ahmet", "Yılmaz", "1234567890"),
-            new Kisi("Ayşe", "Demir", "2345678901"),
-            new Kisi("Mehmet", "Kara", "3456789012"),
-            new Kisi("Fatma", "Aydın", "4567890123"),
-            new Kisi("Ali", "Çelik", "5678901234")
+            new Kisi("Ahmet", "Yılmaz", "0507 079 11 01"),
+            new Kisi("Ayşe", "Demir", "0536 244 56 78"),
+            new Kisi("Mehmet", "Kara", "0546 256 34 56"),
+            new Kisi("Fatma", "Aydın", "0548 897 56 48"),
+            new Kisi("Ali", "Çelik", " 0532 961 37 49")
         };
 
         static void Main(string[] args)
